@@ -15,7 +15,7 @@ body {
     --light: #0d6cf2;
     --mid: rgb(231, 20, 185);
     --long: red;
-    --mac:rgb(246, 120, 23);
+    --mac:rgb(246, 120, 23)
     
 
 }
@@ -32,7 +32,7 @@ header {
     justify-content: space-around;
     align-items: center;
     flex-wrap: wrap;
-    box-shadow: 2px 0px 3px rgb(239, 7, 7);
+    box-shadow: 2px 0px 3px rgb(15, 135, 227);
     text-align: center;
 }
 

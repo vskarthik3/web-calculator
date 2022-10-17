@@ -49,7 +49,7 @@ var size2 = 'M';
 var size3 = 'L';
 var size = [38, 40, 42, 44, 46];
 console.log(size)
-console.log(typeof size)
+console.log(size3)
 
 
 function cal_Age(year) {
